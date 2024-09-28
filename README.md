@@ -1,6 +1,7 @@
 # flutter_blog_app
 
 A new Flutter project.
+The Application is made up of Dart Programming Language.
 
 ## Getting Started
 
